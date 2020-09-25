@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1 My FS
+  each name in files
+    a(href='/index'+name) #{name}
+    br
