@@ -1,6 +1,6 @@
 # NodeFileServer
 
-simplist server for file directory and serving files
+simplist server for indexing and serving files
 
 ## run
 
