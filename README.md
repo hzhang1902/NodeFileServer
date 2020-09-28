@@ -8,6 +8,13 @@ simplist server for file directory and serving files
 2. `yarn && yarn start`
 3. browser open `yourip:3000/index`
 
+## todo
+
+1. upload button
+2. back to parent dir
+3. display short path names
+4. https
+
 ## useful links
 
 [vps im using](https://vultr.com/ "vultr")
